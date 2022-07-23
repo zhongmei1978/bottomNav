@@ -1,5 +1,6 @@
 # bottomNav
 底部导航栏
+运行效果：链接：https://pan.baidu.com/s/1UjpyxubHnNGi5JwWYp8RFQ?pwd=9th1 
 
 作业要求
 
