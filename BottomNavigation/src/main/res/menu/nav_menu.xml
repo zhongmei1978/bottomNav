@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_share"
+        android:icon="@mipmap/share"
+        android:title="@string/share" />
+    <item
+        android:id="@+id/item_collect"
+        android:icon="@mipmap/collection"
+        android:title="@string/collect" />
+    <item
+        android:id="@+id/item_edit"
+        android:icon="@mipmap/edit"
+        android:title="@string/edit" />
+    <item
+        android:id="@+id/item_delete"
+        android:icon="@mipmap/delete"
+        android:title="@string/del" />
+
+</menu>

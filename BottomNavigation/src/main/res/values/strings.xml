@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="collect">收藏</string>
+    <string name="share">分享</string>
+    <string name="edit">编辑</string>
+    <string name="del">删除</string>
+    <string name="more">更多</string>
+</resources>
